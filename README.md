@@ -8,7 +8,7 @@
 3. 安装vue
 4. 安装vue-router
 5. 安装axios
-6. 安装element-ui
+6. 安装element-plus
 
 后端环境：
 1. 安装java
